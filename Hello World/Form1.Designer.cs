@@ -48,7 +48,7 @@
             this.txtBxName.Name = "txtBxName";
             this.txtBxName.Size = new System.Drawing.Size(111, 20);
             this.txtBxName.TabIndex = 1;
-            this.txtBxName.Text = "TextBox1";
+            this.txtBxName.Text = "Tom";
             this.txtBxName.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // Form1
